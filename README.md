@@ -1,8 +1,9 @@
-![MasterHead](http://wallls.com/wallpaper/208785/)]
+
 <h1 align="center">Hi 🧙‍♂️, I'm Luis Rubi. 🚀</h1>
 <h3 align="center">A passionate frontend developer from Mexico City 🇲🇽</h3>
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72727&background=1193FF00&random=false&width=435&lines=Thanks+for+visiting+my+GitHub+profile.;Feel+free+to+reach+out+for+anything.+" alt="Typing SVG" /></a>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fa6%2F42%2F72%2Fa6427290d97d92343223643614c8ef80.gif&tbnid=KZk9DkgbrhHznM&vet=12ahUKEwi24qbX1OeDAxXdzskDHYRWD20QMygwegUIARDaAQ..i&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fprogrammer-cat--377598750020271186%2F&docid=afXHF5MSEjUuxM&w=800&h=600&q=programmer%20gif&ved=2ahUKEwi24qbX1OeDAxXdzskDHYRWD20QMygwegUIARDaAQ")
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisorubi&label=Profile%20views&color=0e75b6&style=flat" alt="luisorubi" /> </p>
