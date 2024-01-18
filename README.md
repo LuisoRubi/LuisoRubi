@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 🧙‍♂️, I'm Luis Rubi. 🚀</h1>
+<h1 align="center">Hi 🧙‍♂️ I'm Luis Rubi. 🚀</h1>
 <h3 align="center">A passionate frontend developer from Mexico City 🇲🇽</h3>
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72727&background=1193FF00&random=false&width=435&lines=Thanks+for+visiting+my+profile.;Feel+free+to+reach+out+for+anything.+" alt="Typing SVG" /></a>
 
