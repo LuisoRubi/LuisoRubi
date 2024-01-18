@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/LuisoRubi/LuisoRubi/blob/main/Blue%20Geometric%20Technology%20Linked%20in%20Banner.jpg)
 
 <h1 align="center">Hi 🧙‍♂️ I'm Luis Rubi. 🚀</h1>
 <h3 align="center">A passionate frontend developer from Mexico City 🇲🇽</h3>
