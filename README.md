@@ -33,5 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisorubi&show_icons=true&locale=en" alt="luisorubi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisorubi&" alt="luisorubi" /></p>
-
-[img align="center" alt="Coding" width="400" src="https://media4.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e47yutpjlta55f1ud1n7c924o4f5eegwrp5whzu6zsw&ep=v1_gifs_search&rid=giphy.gif&ct=g"]
