@@ -8,17 +8,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisorubi&label=Profile%20views&color=0e75b6&style=flat" alt="luisorubi" /> </p>
 
-- 🔭 I’m currently working for **AMN Healthcare**
+- 🔭 I’m currently working for **Casas ARA**
 
-- 🌱 I’m currently learning **Frontend & Backend Development**
+- 🌱 I’m currently learning **Backend Development**
 
-- 👯 I’m part of the amazing **DEV.F community.**
+- 👯 I was part of the amazing **DEV.F community.**
 
 - 🤝 I’m looking for help with **starting a new project**
 
 - 📫 How to reach me **luisorubi@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/luis-rubi-765892279](www.linkedin.com/in/luis-rubi-765892279)
+- 📄 Wanna know about my work experience? Visit: [www.linkedin.com/in/luis-rubi-765892279](www.linkedin.com/in/luis-rubi-765892279)
 
 - 👾 Fun fact **I enjoy metal music as much as I enjoy food and gaming. ⚔️ "Start small. Grow tall." ⚔️**
 
