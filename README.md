@@ -8,7 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisorubi&label=Profile%20views&color=0e75b6&style=flat" alt="luisorubi" /> </p>
 
-- 🔭 I’m currently working for **Casas ARA**
 
 - 🌱 I’m currently learning **Backend Development**
 
